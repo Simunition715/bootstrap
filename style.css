@@ -3,9 +3,8 @@ body {
 }
 h1 {
 	font-family: helvetica;
-	line-height: 170px;
 }
-	  #grey {
+#grey {
 	background-color: grey;
 }
 .thumbnail {

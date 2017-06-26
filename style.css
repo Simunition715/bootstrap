@@ -1,1 +1,23 @@
-style.css
+body {
+	background-color: grey;
+}
+h1 {
+	font-family: helvetica;
+	line-height: 170px;
+}
+	  #grey {
+	background-color: grey;
+}
+.thumbnail {
+	background-color: grey;
+}
+.col-sm-12 {
+	height: 20px;
+	background-color: grey;
+}
+.thumbnail {
+	border: none;
+}
+.container {
+	margin-bottom: 60px;
+}
